@@ -1,6 +1,6 @@
 ---
 title: The Job Was Never Just the Code
-date: 2026-05-13 12:00:00 -0600
+date: 2026-05-13 00:00:00 -0600
 categories: [Engineering, Career]
 tags: [software-engineering, ai, career, leadership]
 description: Software engineering has spent decades organizing itself around implementation. That was always only a quarter of the job, and AI is making the imbalance impossible to ignore.
